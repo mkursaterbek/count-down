@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to left, rgb(184, 10, 10), rgb(79, 8, 79))right;
+}
+.countdown { 
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 40vh;
+}
